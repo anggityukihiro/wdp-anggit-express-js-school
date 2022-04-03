@@ -1,20 +1,20 @@
 [
     {
       "id": 1,
-      "name": "Heramwan",
+      "name": "Anggit Nur Iman",
       "npsn": 20102435,
-      "kelas": 10
+      "kelas": 12
     },
     {
       "id": 2,
-      "name": "Dono",
+      "name": "Hirotaqi AL Farisi",
       "npsn": 20177945,
       "kelas": 11
     },
     {
       "id": 3,
-      "name": "Agil",
+      "name": "Hiratami AL Fahimi",
       "npsn": 20177942,
-      "kelas": 12
+      "kelas": 10
     }
   ]
